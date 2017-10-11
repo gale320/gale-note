@@ -12,6 +12,7 @@ Welcome to tools's documentation!
 
    pdftk.rst
    mupdf.rst
+   rsync.rst
 
 Indices and tables
 ==================
