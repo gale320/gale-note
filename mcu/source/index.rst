@@ -10,7 +10,8 @@ Welcome to mcu's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   stm32-rng.rst
+   language.rst
 
 Indices and tables
 ==================
